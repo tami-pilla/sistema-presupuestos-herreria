@@ -11,3 +11,9 @@ El sistema permite generar presupuestos, asignar IDs automáticos, unificar los 
 - **capturas/**: imágenes del sistema y de las principales funcionalidades.
 - **docs/**: flujo del sistema.
 - **apps-script/**: scripts de automatización desarrollados en Google Apps Script.
+
+## Tecnologías
+
+- Google Sheets
+- Google Apps Script
+- Data Studio
