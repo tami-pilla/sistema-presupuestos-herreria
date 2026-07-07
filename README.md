@@ -1,4 +1,4 @@
-# Sistema Automatizado de Presupuestos para Herrería
+# Sistema automatizado de presupuestos para herrería
 
 ## Descripción
 
