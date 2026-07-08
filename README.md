@@ -2,9 +2,9 @@
 
 ## Descripción
 
-Previamente, la generación de presupuestos se realizaba en múltiples planillas de Excel, dificultando el seguimiento cada trabajo aceptado y requiriendo tareas manuales repetitivas.
+Previamente, la elaboración de presupuestos se realizaba en múltiples planillas de Excel, lo que dificultaba el seguimiento de los trabajos aceptados y requería realizar tareas manuales repetitivas. 
 
-Se desarrolló un sistema con Apps Script para centralizar y automatizar este proceso.
+Para optimizar este proceso, se desarrolló un sistema en Google Sheets con Apps Script que centraliza la información y automatiza las principales tareas.
 
 El sistema permite generar presupuestos, asignar IDs automáticos, unificar los trabajos aceptados en una base global y asi poder registrar ingresos y egresos, calcular costos y hacer seguimiento de cada trabajo.
 
