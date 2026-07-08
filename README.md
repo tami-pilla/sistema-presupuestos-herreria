@@ -8,11 +8,6 @@ Se desarrolló un sistema con Apps Script para centralizar y automatizar este pr
 
 El sistema permite generar presupuestos, asignar IDs automáticos, unificar los trabajos aceptados en una base global y asi poder registrar ingresos y egresos, calcular costos y hacer seguimiento de cada trabajo.
 
-## Contenido del repositorio
-
-**capturas/**: imágenes del sistema.
-**docs/**: flujo de los datos.
-
 ## Funcionamiento
   
 - Generación automática de presupuestos a partir de una plantilla.
