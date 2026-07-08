@@ -3,6 +3,7 @@
 ## Descripción
 
 Previamente, la generación de presupuestos se realizaba en múltiples planillas de Excel, dificultando el seguimiento cada trabajo aceptado y requiriendo tareas manuales repetitivas.
+
 Se desarrolló un sistema con Apps Script para centralizar y automatizar este proceso.
 
 El sistema permite generar presupuestos, asignar IDs automáticos, unificar los trabajos aceptados en una base global y asi poder registrar ingresos y egresos, calcular costos y hacer seguimiento de cada trabajo.
