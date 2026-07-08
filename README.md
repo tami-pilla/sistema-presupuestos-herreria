@@ -10,18 +10,17 @@ El sistema permite generar presupuestos, asignar IDs automáticos, unificar los 
 
 - **capturas/**: imágenes del sistema.
 - **docs/**: flujo de los datos.
-- **apps-script/**: scripts en Google Apps Script.
 
-- ## Funcionalidades principales
-
-- Generación automática de presupuestos a partir de la duplicación de una plantilla.
-- Asignación ID único por presupuesto.
-- Cálculo automático de totales.
-- Cambio de estado para presupuestos aceptados.
-- Conexión entre hojas de cálculo.
-- ID de presupuestos aceptados disponibles en desplegable en planilla Movimientos.
-- Registro de materiales, insumos, mano de obra y otros costos.
-- Seguimiento de ingresos, egresos y resultados por trabajo.
+- ## Funcionamiento
+  
+- Generación automática de presupuestos a partir de una plantilla.
+- Asignación automática de un ID para cada presupuesto.
+- Cálculo automático de materiales, insumos, mano de obra, márgenes y total del presupuesto.
+- Cambio de estado del presupuesto (aceptado o cancelado).
+- Registro automático de los presupuestos aceptados en una base de datos global.
+- Los ID de los presupuestos aceptados pasan a estar disponibles para seleccionarlos desde la planilla de Movimientos.
+- Registro de ingresos y egresos asociados a cada trabajo.
+- Seguimiento de costos, rentabilidad y resultado de cada trabajo.
 
 ## Capturas del proyecto
 
