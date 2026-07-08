@@ -10,10 +10,10 @@ El sistema permite generar presupuestos, asignar IDs automáticos, unificar los 
 
 ## Contenido del repositorio
 
-- **capturas/**: imágenes del sistema.
-- **docs/**: flujo de los datos.
+**capturas/**: imágenes del sistema.
+**docs/**: flujo de los datos.
 
-- ## Funcionamiento
+## Funcionamiento
   
 - Generación automática de presupuestos a partir de una plantilla.
 - Asignación automática de un ID para cada presupuesto.
