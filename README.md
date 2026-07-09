@@ -44,7 +44,9 @@ El sistema permite generar presupuestos, asignar IDs automáticos, unificar los 
 - El estado del presupuesto puede actualizarse mediante una lista desplegable.
 
 ### Base global
-![Base global](imagenes/05-base-presupuestos-global.png)
+<a href="imagenes/05-base-presupuestos-global.png">
+  <img src="imagenes/05-base-presupuestos-global.png" width="550" alt="Plantilla de presupuesto">
+</a>
 
 - Los datos de los presupuestos aceptados pasan a una base global centralizando la información.
 
