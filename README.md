@@ -56,7 +56,9 @@ El sistema permite generar presupuestos, asignar IDs automáticos, unificar los 
 - Los ID de los presupuestos aceptados quedan disponibles en una lista desplegable para registrar los ingresos y egresos asociados a cada trabajo.
 
 ### Vista para el cliente
-![Vista para el cliente](imagenes/07-vista-cliente.png)
+<a href="imagenes/07-vista-cliente.png">
+  <img src="imagenes/07-vista-cliente.png" width="600" alt="Plantilla de presupuesto">
+</a>
 
 - Vista previa del presupuesto para compartir con el cliente.
 
@@ -66,10 +68,14 @@ El sistema permite generar presupuestos, asignar IDs automáticos, unificar los 
 - El sistema permite registrar ingresos y egresos de trabajos extra mensuales que no están asociados a ningun ID de presupuesto.
 
 ### Resultado por trabajo
-![Resultado por trabajo](imagenes/09-resultado-por-trabajo.png)
+<a href="imagenes/09-resultado-por-trabajo.png">
+  <img src="imagenes/09-resultado-por-trabajo.png" width="550" alt="Plantilla de presupuesto">
+</a>
 
 ### Resumen mensual
-![Resumen mensual](imagenes/10-resumen-mensual.png)
+<a href="imagenes/10-resumen-mensual.png">
+  <img src="imagenes/10-resumen-mensual.png" width="550" alt="Plantilla de presupuesto">
+</a>
 
 
 
