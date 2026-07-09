@@ -22,14 +22,52 @@ El sistema permite generar presupuestos, asignar IDs automáticos, unificar los 
 ## Capturas del proyecto
 
 ### Plantilla de presupuesto
-![Plantilla de presupuesto](imagenes/plantilla-presupuesto.png)
+![Plantilla de presupuesto](imagenes/01-plantilla-presupuesto.png)
 
-### Registro de presupuestos
-![Registro de presupuestos](imagenes/registro-presupuestos.png)
+- Plantilla utilizada para crear nuevos presupuestos. Incluye fórmulas, listas desplegables y campos predefinidos para agilizar la carga de información.
 
-### Movimientos
-![Movimientos](imagenes/movimientos.png)
+### Cálculos del presupuestos
+![Cálculos del presupuestos](imagenes/02-calculo-presupuesto.png)
+
+- Calculos de materiales, insumos, mano de obra, gestión y costo total del presupuesto.
+
+### Presupuesto generado
+![Presupuesto generado](imagenes/03-presupuestos-generados.png)
+
+- Cada presupuesto se crea a partir de la plantilla y recibe un ID único.
+
+### Cambio de estado
+![Cambio de estado](imagenes/04-cambio-estado.png)
+
+- El estado del presupuesto puede actualizarse mediante una lista desplegable.
+
+### Base global
+![Base global](imagenes/05-base-presupuestos-global.png)
+
+- Los datos de los presupuestos aceptados pasan a una base global centralizando la información.
+
+### Registro de Movimientos
+![Registro de Movimientoso](imagenes/06-planilla-movimientos.png)
+
+- Los ID de los presupuestos aceptados quedan disponibles en una lista desplegable para registrar los ingresos y egresos asociados a cada trabajo.
+
+### Vista para el cliente
+![Vista para el cliente](imagenes/07-vista-cliente.png)
+
+- Vista previa del presupuesto para compartir con el cliente.
+
+### Trabajos extra
+![Trabajos extra](imagenes/08-trabajos-extra.png)
+
+- El sistema permite registrar ingresos y egresos de trabajos extra mensuales que no están asociados a ningun ID de presupuesto.
 
 ### Resultado por trabajo
-![Resultado por trabajo](imagenes/resultado-trabajo.png)
+![Resultado por trabajo](imagenes/09-resultado-por-trabajo.png)
+
+### Resumen mensual
+![Resumen mensual](imagenes/10-resumen-mensual.png)
+
+
+
+ 
 
