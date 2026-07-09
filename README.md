@@ -22,7 +22,7 @@ El sistema permite generar presupuestos, asignar IDs automáticos, unificar los 
 ## Capturas del proyecto
 
 ### Plantilla de presupuesto
-![Plantilla de presupuesto](imagenes/01-plantilla-presupuesto.png)
+<img src="imagenes/01-plantilla-presupuesto.png" alt="Plantilla de presupuesto" width="600">
 
 - Plantilla utilizada para crear nuevos presupuestos. Incluye fórmulas, listas desplegables y campos predefinidos para agilizar la carga de información.
 
